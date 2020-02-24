@@ -1,0 +1,12 @@
+Source: maemo-keyring
+Priority: important
+Section: misc
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper (>= 10), gnupg
+Standards-Version: 4.1.2
+
+Package: maemo-keyring
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: GnuPG archive keys for Maemo Leste

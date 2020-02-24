@@ -1,3 +1,9 @@
+maemo-keyring (2020.3) unstable; urgency=medium
+
+  * Do not import old broken key
+
+ -- Ivan J. <parazyd@dyne.org>  Mon, 24 Feb 2020 19:17:29 +0100
+
 maemo-keyring (2020.2) unstable; urgency=medium
 
   * Rework package to be like Debian

@@ -1,3 +1,9 @@
+maemo-keyring (2020.2) unstable; urgency=medium
+
+  * Rework package to be like Debian
+
+ -- Ivan J. <parazyd@dyne.org>  Mon, 24 Feb 2020 17:30:05 +0100
+
 maemo-keyring (2020.1) unstable; urgency=medium
 
   * Initial package

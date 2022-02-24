@@ -1,3 +1,9 @@
+maemo-keyring (2022.1) unstable; urgency=medium
+
+  * Add extras key with updated expiry
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Thu, 24 Feb 2022 22:52:38 +0100
+
 maemo-keyring (2020.3) unstable; urgency=medium
 
   * Do not import old broken key

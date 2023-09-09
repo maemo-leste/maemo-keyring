@@ -1,3 +1,9 @@
+maemo-keyring (2023.1) unstable; urgency=medium
+
+  * Update regular keys with updated expiry
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sat, 09 Sep 2023 13:55:04 +0200
+
 maemo-keyring (2022.1) unstable; urgency=medium
 
   * Add extras key with updated expiry

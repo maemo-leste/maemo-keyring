@@ -1,3 +1,9 @@
+maemo-keyring (2025.1) unstable; urgency=medium
+
+  * Add forgejo leste-extras key
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sat, 30 Aug 2025 18:37:21 +0200
+
 maemo-keyring (2023.1) unstable; urgency=medium
 
   * Update regular keys with updated expiry
